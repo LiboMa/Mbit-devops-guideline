@@ -5,7 +5,7 @@ Version 0.1, last update 2018.5.20
 This is the devops basedline for Phase 1, this documentation aimed to guide our dev and operations to build up a 
 
 - High Availibility for Business Projects
-- Security & Rubost Exchange application
+- Security & Robust applications
 - Bubost go-live Baseline
 - Daily Opertion Baseline
 
