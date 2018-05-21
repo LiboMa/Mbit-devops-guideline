@@ -7,7 +7,7 @@ This is the devops basedline for Phase 1, this documentation aimed to guide our 
 - High Availibility for Business Projects
 - Security & Robust applications
 - Bubost go-live Baseline
-- Daily Opertion Baseline
+- Daily Operation Baseline
 
 Following Parts are the core funtions of DevOps
 
