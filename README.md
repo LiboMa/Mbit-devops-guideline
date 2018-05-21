@@ -1,15 +1,15 @@
 # MBiT DevOps Guidelines & Plans
-
 TO DO LIST
-Version 0.1, last update 2018.5.20
-This is the devops basedline for Phase 1, this documentation aimed to guide our dev and operations to build up a 
+Version 0.1, last update 2018.5.20.
+Devops basedline for Phase 1, this documentation aimed to build up a 
 
 - High Availibility for Business Projects
 - Security & Robust applications
 - Bubost go-live Baseline
 - Daily Operation Baseline
 
-Following Parts are the core funtions of DevOps
+Following Parts are the core funtions of DevOps:
+
 
 ### CI/CD
 #### CI (Git, Jekins)
@@ -19,6 +19,7 @@ Following Parts are the core funtions of DevOps
 #### CD (Salt | Ansible)
 1. Configuration Managment 
 2. Package/App Deployment
+
 
 ### CMDB (Bootstrap + Django + RESTful api + Mysql)
 1. Server config
@@ -31,7 +32,8 @@ Following Parts are the core funtions of DevOps
 
 ### HA Solution -> Nginx + Salt
 1. LB + upstream 
-2. Performance Test 
+2. Performance & Test
+
 
 ### Monitoring -> Zabbix
 1. Server/Network/DB/Storage Monitoring
@@ -43,9 +45,11 @@ Following Parts are the core funtions of DevOps
 2. Backup
 3. ITSCM (Monthly)
 
+
 ### Infrastructure Operations
 
 #### Network Architecutre(based on the security architecture)
+
 #### User Management 
 1. LDAP or Cloud Service
 #### DNS
