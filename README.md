@@ -51,6 +51,7 @@ Following Parts are the core funtions of DevOps
 #### DNS
 1. Cloud based or self-build
 #### Internal Wiki
+1. Confluence or Douku Wiki
 
 ####
 
